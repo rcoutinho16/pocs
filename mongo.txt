@@ -1,0 +1,3 @@
+mongo --authenticationDatabase admin -u root -p
+
+use <database_name>
