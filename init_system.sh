@@ -10,8 +10,8 @@ sudo zypper addrepo https://packages.microsoft.com/yumrepos/vscode vscode
 sudo zypper addrepo https://packages.microsoft.com/yumrepos/edge microsoft-edge-stable
 sudo zypper addrepo https://download.opensuse.org/repositories/openSUSE:Leap:15.3:NonFree:Update/standard/openSUSE:Leap:15.3:NonFree:Update.repo
 sudo zypper addrepo https://download.videolan.org/pub/vlc/SuSE/SLEap_15.3/ VLC
-sudo zypper addrepo https://download.nvidia.com/opensuse/leap/15.3 NVIDIA
-sudo zypper addrepo https://download.opensuse.org/repositories/server:/database/openSUSE_Leap_15.3/server:database.repo
+sudo zypper addrepo https://download.nvidia.com/opensuse/leap/15.4 NVIDIA
+sudo zypper addrepo https://download.opensuse.org/repositories/server:/database/openSUSE_Leap_15.4/server:database.repo
 
 sudo zypper refresh
 
